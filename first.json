@@ -1,7 +1,8 @@
 {
     "owner":
     {
-        "id":{
+        "id":0,
+        "user":{
         "firstName":"gaëtan",
         "surname":"lecomte",
         "favouriteSkills": 
