@@ -1,0 +1,146 @@
+{
+    "identity": {
+        "first_name": "Gaëtan",
+        "last_name": "Lecomte",
+        "title": "Full-Stack Developer • Data Enthusiast",
+        "profile_photo": "profile.jpg",
+        "location": {
+            "city": "Paris",
+            "country": "France"
+        },
+        "languages": {
+            "french": "native",
+            "english": "fluent",
+            "german": "basic"
+        }
+    },
+    "summary": {
+        "short_bio": "Full-stack developer and data enthusiast with a strong background in Python and web technologies. I enjoy building robust, well-structured applications, exploring data-driven systems, and working on projects that combine software engineering, AI, and problem solving."
+    },
+    "background": {
+        "experience_years": "3+",
+        "availability": "Open to projects",
+        "education_goal": "Bachelor then Bac+5 in IT / Engineering",
+        "current_focus": [
+            "IT",
+            "Software Development",
+            "Cybersecurity",
+            "Data Science",
+            "Mathematics"
+        ],
+        "experience": {
+            "company": "Hardis Group",
+            "roles": [
+                "Python Developer",
+                "Web Developer"
+            ],
+            "projects": [
+                "Migration Adelia 400 to Adelia Web",
+                "Flask applications deployment with Docker"
+            ]
+        }
+    },
+    "technical_skills": {
+        "highlights": [
+            "Python",
+            "Django",
+            "React",
+            "Docker",
+            "DevOps",
+            "Data Science"
+        ],
+        "programming_languages": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "SQL"
+        ],
+        "frameworks_and_tools": [
+            "Django",
+            "Django REST Framework",
+            "Flask",
+            "React",
+            "Docker",
+            "Docker Compose",
+            "Git"
+        ],
+        "databases": [
+            "PostgreSQL",
+            "MongoDB",
+            "NoSQL"
+        ],
+        "devops_and_systems": {
+            "os": "Ubuntu Linux",
+            "gpu": "NVIDIA GeForce RTX 3050 Mobile",
+            "virtual_env": "uv",
+            "containerization": "Docker"
+        }
+    },
+    "current_projects": [
+        {
+            "name": "Local AI Platform",
+            "description": "Local AI models using Ollama with Flask backend and React frontend",
+            "focus": [
+                "AI",
+                "Computer Vision",
+                "Docker Architecture",
+                "Frontend-Backend Integration"
+            ]
+        }
+    ],
+    "learning_interests": {
+        "computer_science": [
+            "APIs",
+            "Frontend-Backend communication",
+            "Authentication & Authorization",
+            "Clean Architecture",
+            "Data Pipelines"
+        ],
+        "ai_and_data": [
+            "Machine Learning fundamentals",
+            "NLP",
+            "Computer Vision",
+            "Inferential Statistics",
+            "Probability Theory"
+        ],
+        "mathematics": [
+            "Algebra",
+            "Calculus",
+            "Probability",
+            "Statistics",
+            "Ricci Curvature (introductory)"
+        ]
+    },
+    "personal_traits": {
+        "strengths": [
+            "Problem solving",
+            "Analytical thinking",
+            "Curiosity",
+            "Communication"
+        ],
+        "cognitive_profile": [
+            "Dyspraxia (TDC)",
+            "High Intellectual Potential (HPI)",
+            "Possible TSA"
+        ]
+    },
+    "values_and_interests": {
+        "values": [
+            "Perspective openness",
+            "Continuous learning",
+            "Self-trust",
+            "Critical thinking"
+        ],
+        "interests": [
+            "Cybersecurity",
+            "Personal development",
+            "Mycology",
+            "Philosophy of science"
+        ]
+    },
+    "links": {
+        "portfolio": "https://your-portfolio-url",
+        "github": "https://github.com/your-username",
+        "linkedin": "https://linkedin.com/in/your-profile"
+    }
+}
